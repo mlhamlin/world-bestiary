@@ -61,6 +61,8 @@ class Game extends React.Component {
 
 // ========================================
 
+// look at componentWillMount
+// call for data and set state
 ReactDOM.render(
     <Game />,
     document.getElementById('root')
